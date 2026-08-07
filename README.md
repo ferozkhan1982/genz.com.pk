@@ -1,5 +1,3 @@
-# genz.com.pk
-GenZ,com.pk
 <!DOCTYPE html>
 <html lang="en">
 <head>
